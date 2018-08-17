@@ -1,0 +1,55 @@
+```
+#READLIST
+
+include/linux/list.h
+include/linux/page_alloc.c
+include/linux/mm.h
+
+include/asm-i386/system.h
+include/asm-i386/io.h
+include/asm-i386/atomic.h
+```
+GNU
+内核
+进程间通信
+EPROM
+驱动程序
+宏内核
+微内核
+FSF组织
+GPL
+Copyright Copyleft
+Intel X86 Cpu
+寻址方式
+算术逻辑单元ALU
+系统总线，数据总线，地址总线
+PDP-11
+MMU
+地址映射
+段寄存器 
+指令，数据，堆栈和其它
+不能对一个进程的内存访问加以限制，也就谈不上对其他进程以及系统本身的保护。
+内存管理。
+中央处理器
+地址总线
+数据总线
+段式内存管理机制
+linux中的压缩方式xz bz2 gz
+系统状态和用户状态
+段式管理，页式管理
+逻辑地址
+页式映射
+gcc
+asm
+linux内核只能用gcc编译
+inline和宏
+宏操作
+linux 内存管理
+linux中断与异常处理。
+系统空间和用户空间。
+系统的引导程序
+Intel公司的历史
+汇编 jmp 指令
+为什么要用汇编来实现，而不是用C来实现呢
+寄存器
+
