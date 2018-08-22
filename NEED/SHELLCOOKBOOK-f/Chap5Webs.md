@@ -106,3 +106,28 @@ then
 `POST`方式和`GET`方式
 curl 发送POST请求 -d选项
 
+####tar命令
+
+`tar -rvf original.tar newfile`
+`tar -tf archive.tar`
+`tar -tvvf archive.tar`
+`tar -xf archive.tar`
+`tar -xvf file.tar file1 file4`
+SSH
+`tar -Af file1.tar file2.tar`
+`tar -uvvf archive.tar filea`
+`tar -df archive.tar afile bfile`
+`tar -f archive.tar --delete file file2`
+tar命令只能用来归档，并不具备压缩功能
+`tar -cf arch.tar *--exclude "*.txt"`
+`cat list`
+`tar -cf arch.tar * -X list`
+`tar -z `压缩归档文件
+`zcat`直接读取gzip格式文件并打印到stdout
+`bzip2 file`
+`tar -xjvvf archive.tar.bz2 -C edirectory`
+
+####lzma压缩
+
+####加密工具与散列
+u
