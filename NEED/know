@@ -52,3 +52,7 @@ which、whereis、file、whatis,uptime命令
 Linux终端
 wall、hostname、uname命令
 /proc
+makefile
+source命令
+循环文件，循环设备
+可加载内核模块LKM
