@@ -56,3 +56,19 @@ makefile
 source命令
 循环文件，循环设备
 可加载内核模块LKM
+强类型语言 类型的一致性
+[java] BigInteger BigDecimal
+[java] CopyOnWrite
+[java] wait join yield
+[java] StringBuilder StringBuffer
+[java] CopyOnWriteArrayList ReadWriteLock ConcurrentHashMap
+[java] volatile
+[java] Executor ExecutorService ThreadPoolExecutor Executors.
+[java] Callable Runnable Future
+[java] TimeUnit
+[java] Thread.UncaughtExceptionHandler
+[java] synchronized ReentrantLock
+[java] AtomicInteger AtomicLong AtomicReference
+[java] Collections.synchronized
+[java] signal() signalAll() notify() notifyAll() suspend() resume() stop() interrupt()
+[java] 
