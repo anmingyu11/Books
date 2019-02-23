@@ -1,2 +1,3 @@
 rm .gitattributes
 git lfs track *.pdf */*.pdf
+git lfs track */*/*.pdf
